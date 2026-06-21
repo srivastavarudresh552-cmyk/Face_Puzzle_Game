@@ -76,7 +76,7 @@ Everything happens **entirely in your browser**:
 
 ```
 face-puzzle-game/
-└── face_puzzle.html   # everything — HTML, CSS, and JS in one file
+└──index.html   # everything — HTML, CSS, and JS in one file
 ```
 
 ## 📄 License
