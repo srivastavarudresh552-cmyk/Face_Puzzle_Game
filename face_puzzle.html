@@ -369,6 +369,7 @@
       const posY = gridSize === 1 ? 0 : (correctRow / (gridSize - 1)) * 100;
       el.style.backgroundPosition = `${posX}% ${posY}%`;
 
+
       positionPieceEl(el, piece.currentIndex);
       el.addEventListener('pointerdown', onPointerDown);
       piece.el = el;
